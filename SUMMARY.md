@@ -24,4 +24,6 @@
 * [10.4 Понимание риска в искусственном интеллекте](10.4-ponimanie-riska-v-iskusstvennom-intellekte/README.md)
   * [10.4.1 Заключительные слова](10.4-ponimanie-riska-v-iskusstvennom-intellekte/10.4.1-zaklyuchitelnye-slova.md)
 * [10.5 Подводя итоги](10.5-podvodya-itogi.md)
+* [10.6 Вопросы](10.6-voprosy.md)
+* [10.7 Дополнительная литература](10.7-dopolnitelnaya-literatura.md)
 
