@@ -12,4 +12,6 @@
   * [9.3.6 Интеграция искусственной личности в нашего робота](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.6-integraciya-iskusstvennoi-lichnosti-v-nashego-robota.md)
   * [9.3.7 Построение личности - строительные блоки](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.7-postroenie-lichnosti-stroitelnye-bloki.md)
   * [9.3.8 В процессе строительства](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.8-v-processe-stroitelstva.md)
+  * [9.3.9 Движок эмоций робота](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.9-dvizhok-emocii-robota.md)
+  * [9.3.10 Модель человеческих эмоций](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.10-model-chelovecheskikh-emocii.md)
 
