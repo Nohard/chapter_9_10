@@ -14,4 +14,6 @@
   * [9.3.8 В процессе строительства](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.8-v-processe-stroitelstva.md)
   * [9.3.9 Движок эмоций робота](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.9-dvizhok-emocii-robota.md)
   * [9.3.10 Модель человеческих эмоций](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.10-model-chelovecheskikh-emocii.md)
+* [9.4 Вопросы](9.4-voprosy.md)
+* [9.5 Дополнительная литература](9.5-dopolnitelnaya-literatura.md)
 
