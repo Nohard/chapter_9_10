@@ -16,4 +16,8 @@
   * [9.3.10 Модель человеческих эмоций](9.3-chto-takoe-iskusstvennaya-lichnost/9.3.10-model-chelovecheskikh-emocii.md)
 * [9.4 Вопросы](9.4-voprosy.md)
 * [9.5 Дополнительная литература](9.5-dopolnitelnaya-literatura.md)
+* [10.1 Выводы и Размышления](10.1-vyvody-i-razmyshleniya.md)
+* [10.2 Выводы о нашем путешествии](10.2-vyvody-o-nashem-puteshestvii/README.md)
+  * [10.2.1 Карьера в робототехнике](10.2-vyvody-o-nashem-puteshestvii/10.2.1-karera-v-robototekhnike.md)
+* [10.3 Проблемы в ИИ – настоящие и не настоящие](10.3-problemy-v-ii-nastoyashie-i-ne-nastoyashie.md)
 
